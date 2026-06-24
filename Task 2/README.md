@@ -23,7 +23,3 @@ The objective of this project is to predict whether a loan applicant is likely t
 * The Logistic Regression model was able to classify loan repayment outcomes.
 * Accuracy and Confusion Matrix were used to evaluate model performance.
 * The analysis demonstrated how customer financial information can be used to assess credit risk.
-
-## Conclusion
-
-This project demonstrates the use of data cleaning, exploratory data analysis, and machine learning techniques to predict credit risk and support better lending decisions.
