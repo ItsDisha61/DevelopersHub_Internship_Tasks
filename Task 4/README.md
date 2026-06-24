@@ -18,7 +18,3 @@ Predict medical insurance charges using a Linear Regression model.
 * Smoking status had a significant impact on medical costs.
 * Higher age and BMI were generally associated with higher charges.
 * MAE and RMSE were used to assess model performance.
-
-## Conclusion
-
-This project demonstrates how regression modeling can be used to estimate insurance charges and identify key factors affecting healthcare costs.
