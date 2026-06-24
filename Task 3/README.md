@@ -16,7 +16,3 @@ Predict whether a bank customer is likely to leave the bank using machine learni
 * The model successfully predicted customer churn.
 * Customer demographics and account-related features influenced churn behavior.
 * Feature importance helped identify factors affecting customer retention.
-
-## Conclusion
-
-This project demonstrates how machine learning can be used to predict customer churn and support data-driven retention strategies.
