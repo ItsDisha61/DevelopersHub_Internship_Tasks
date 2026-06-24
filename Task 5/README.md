@@ -18,7 +18,3 @@ Predict which bank customers are more likely to accept a personal loan offer usi
 * The model successfully predicted loan acceptance behavior.
 * Job type, age, and marital status influenced customer responses.
 * Customer group analysis provided useful insights for targeted marketing strategies.
-
-## Conclusion
-
-This project demonstrates how classification models can help banks identify potential customers and improve marketing decisions through data-driven insights.
