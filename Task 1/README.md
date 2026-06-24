@@ -29,7 +29,3 @@ The objective of this task is to explore, summarize, and visualize the Iris data
 * The histogram illustrated the distribution of sepal length values.
 * The box plot helped visualize the spread of petal length and identify potential outliers.
 * The dataset was successfully explored and visualized using multiple techniques.
-
-## Conclusion
-
-The Iris dataset was successfully analyzed through data inspection and visualization. Scatter plots, histograms, and box plots provided useful insights into the distribution and relationships of different flower measurements.
